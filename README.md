@@ -1,6 +1,7 @@
 ### Hi there 👋
-I’m currently learning Python in a bootcamp. 
-I would like to create an interesting software.
+Passionate about technology and eager to learn, I'm currently immersing myself in the world of Python through a bootcamp program.
+With a knack for problem-solving and a creative mindset, I'm on a mission to develop innovative software solutions that make a positive impact.
+I'm interested in Data Engineering and Data Analysis.
 
 <!--
 **diana2granat/diana2granat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
