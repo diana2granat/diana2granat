@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m currently learning Python in a bootcamp. 
+I would like to create an interesting software.
 
 <!--
 **diana2granat/diana2granat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
